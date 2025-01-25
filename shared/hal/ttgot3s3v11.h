@@ -2,8 +2,8 @@
 // upload_speed 921600
 // board esp32dev
 
-#ifndef _TTGOV21NEW_H
-#define _TTGOV21NEW_H
+#ifndef _TTGOT3S3V11_H
+#define _TTGOT3S3V11_H
 
 #include <stdint.h>
 
